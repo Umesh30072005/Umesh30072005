@@ -1,4 +1,4 @@
-<!-- ===== INTRO SECTION WITH ZORO (LIGHT/DARK MODE) ===== -->
+<!-- ================= INTRO SECTION WITH ZORO ================= -->
 <table align="center">
   <tr>
     <td width="60%">
@@ -6,12 +6,12 @@
       <h3>A passionate Android App Developer from India 🇮🇳</h3>
 
       <ul>
-        <li>🔭 Currently working on <b>Business and Politics [Mobile Game]</b></li>
-        <li>🌱 Currently learning <b>Ktor & Jetpack Compose</b></li>
-        <li>👯 Looking to collaborate on <b>Business and Politics</b></li>
-        <li>🤝 Looking for help with <b>Business and Politics</b></li>
+        <li>🔭 I’m currently working on <b>Business and Politics [Mobile Game]</b></li>
+        <li>🌱 I’m currently learning <b>Ktor & Jetpack Compose</b></li>
+        <li>👯 I’m looking to collaborate on <b>Business and Politics</b></li>
+        <li>🤝 I’m looking for help with <b>Business and Politics</b></li>
         <li>💬 Ask me about <b>Jetpack Compose</b></li>
-        <li>📫 Reach me at <b>kkucpr@gmail.com</b></li>
+        <li>📫 How to reach me: <b>kkucpr@gmail.com</b></li>
         <li>⚡ Fun fact: <b>I think I’m creative and fun to be around</b></li>
       </ul>
     </td>
@@ -27,62 +27,65 @@
 
 ---
 
-<!-- ===== PROFILE VIEWS ===== -->
+<!-- ================= PROFILE VIEWS ================= -->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=umesh30072005&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=umesh30072005&label=Profile%20views&color=0e75b6&style=flat" alt="umesh30072005" />
 </p>
 
 ---
 
-<!-- ===== TROPHIES ===== -->
+<!-- ================= TROPHIES ================= -->
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=umesh30072005&theme=darkhub&no-frame=true" alt="trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=umesh30072005&theme=darkhub&no-frame=true" alt="trophies" />
   </a>
 </p>
 
 ---
 
-<!-- ===== CONNECT WITH ME ===== -->
+<!-- ================= CONNECT WITH ME ================= -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/umeshchandraprasadkamasan" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
   <a href="https://instagram.com/umesh__880" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+  </a>
+  <a href="https://www.topcoder.com/members/517502" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" height="30" width="40" />
   </a>
 </p>
 
 ---
 
-<!-- ===== LANGUAGES & TOOLS ===== -->
+<!-- ================= LANGUAGES & TOOLS ================= -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
 </p>
 
 ---
 
-<!-- ===== GITHUB STATS ===== -->
+<!-- ================= GITHUB STATS ================= -->
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umesh30072005&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umesh30072005&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="top languages" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=umesh30072005&show_icons=true&locale=en&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=umesh30072005&show_icons=true&locale=en&theme=tokyonight" alt="github stats" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umesh30072005&theme=tokyonight" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umesh30072005&theme=tokyonight" alt="streak stats" />
 </p>
