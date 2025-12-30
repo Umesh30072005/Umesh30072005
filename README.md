@@ -3,18 +3,18 @@
 <td width="60%">
 
 <h1>Hi 👋, I'm Umesh Chandra Prasad Kamasani</h1>
+
 <p>
-<img src="https://readme-typing-svg.herokuapp.com?font=Pirata+One&size=26&duration=3000&pause=800&color=22C55E&center=false&vCenter=false&width=500&lines=Android+App+Developer;Mobile+Game+Developer;Jetpack+Compose+%7C+Ktor;One+Piece+Fan+%E2%9A%94%EF%B8%8F" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Pirata+One&size=26&duration=3000&pause=800&color=22C55E&width=500&lines=Android+App+Developer;AI+ML+Student;Jetpack+Compose+%7C+Ktor;One+Piece+Fan+%E2%9A%94%EF%B8%8F" />
 </p>
 
-<h3>A passionate Android App Developer from India 🇮🇳</h3>
-
 <ul>
-<li>🔭 Working on <b>Business and Politics [Mobile Game]</b></li>
+<li>⚔️ Working on <b>Business and Politics [Mobile Game]</b></li>
 <li>🌱 Learning <b>Ktor & Jetpack Compose</b></li>
-<li>👯 Open to collaboration</li>
+<li>🤝 Open to collaborations</li>
 <li>💬 Ask me about <b>Jetpack Compose</b></li>
 <li>📫 <b>kkucpr@gmail.com</b></li>
+<li>🔥 Dream: <b>Build apps that rule the Grand Line</b></li>
 </ul>
 
 </td>
@@ -25,21 +25,34 @@
 <img src="assets/zoro-light.gif" width="260" alt="Zoro">
 </picture>
 </td>
-
 </tr>
 </table>
-<h2>⚔️ Connect with Me</h2>
+
+<hr>
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=umesh30072005&label=Profile%20Views%20(Bounty)&color=22c55e&style=flat" />
+</p>
+
+<hr>
+
+<h2>⚔️ Crew Connections</h2>
 
 <p>
 <a href="https://linkedin.com/in/umeshchandraprasadkamasan">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="42"/>
 </a>
 
 <a href="https://instagram.com/umesh__880">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="42"/>
 </a>
+
+
 </p>
-<h2>🏴‍☠️ Languages & Tools</h2>
+
+<hr>
+
+<h2>🏴‍☠️ Devil Fruits & Tools</h2>
 
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="45"/>
@@ -55,3 +68,22 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45"/>
 </p>
 
+<hr>
+
+<h2>🌊 Grand Line Stats</h2>
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=umesh30072005&show_icons=true&theme=tokyonight" />
+</p>
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=umesh30072005&layout=compact&theme=tokyonight" />
+</p>
+
+<p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=umesh30072005&theme=tokyonight" />
+</p>
+
+<hr>
+
+<h3 align="center">🏴‍☠️ “I don’t want to conquer anything… I just want to build great things.”</h3>
