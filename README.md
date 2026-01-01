@@ -9,7 +9,8 @@
 <tr>
 <td width="60%">
 
-<h1>Hi 👋, I'm Umesh Chandra Prasad Kamasani</h1>
+<img src="https://readme-typing-svg.herokuapp.com?font=Pirata+One&size=36&pause=1000&color=22C55E&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Umesh+Chandra+Prasad+Kamasani" />
+
 
 <p>
 <img src="https://readme-typing-svg.herokuapp.com?font=Pirata+One&size=26&duration=3000&pause=800&color=22C55E&width=520&lines=Android+App+Developer;AI+ML+Student;Jetpack+Compose+%7C+Ktor;Straw+Hat+Developer+🏴‍☠️" />
