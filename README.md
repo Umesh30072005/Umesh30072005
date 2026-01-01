@@ -1,3 +1,10 @@
+<p align="center">
+<picture>
+<source srcset="assets/luffy-dark.gif" media="(prefers-color-scheme: dark)">
+<img src="assets/luffy-light.gif" width="850" alt="Luffy Banner">
+</picture>
+</p>
+
 <table align="center">
 <tr>
 <td width="60%">
@@ -5,17 +12,8 @@
 <h1>Hi 👋, I'm Umesh Chandra Prasad Kamasani</h1>
 
 <p>
-<img src="https://readme-typing-svg.herokuapp.com?font=Pirata+One&size=26&duration=3000&pause=800&color=22C55E&width=500&lines=Android+App+Developer;AI+ML+Student;Jetpack+Compose+%7C+Ktor;One+Piece+Fan+%E2%9A%94%EF%B8%8F" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Pirata+One&size=26&duration=3000&pause=800&color=22C55E&width=520&lines=Android+App+Developer;AI+ML+Student;Jetpack+Compose+%7C+Ktor;Straw+Hat+Developer+🏴‍☠️" />
 </p>
-
-<ul>
-<li>⚔️ Working on <b>Business and Politics [Mobile Game]</b></li>
-<li>🌱 Learning <b>Ktor & Jetpack Compose</b></li>
-<li>🤝 Open to collaborations</li>
-<li>💬 Ask me about <b>Jetpack Compose</b></li>
-<li>📫 <b>kkucpr@gmail.com</b></li>
-<li>🔥 Dream: <b>Build apps that rule the Grand Line</b></li>
-</ul>
 
 </td>
 
@@ -28,31 +26,30 @@
 </tr>
 </table>
 
-<hr>
+<details open>
+<summary><h2>⚔️ About the Swordsman</h2></summary>
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=umesh30072005&label=Profile%20Views%20(Bounty)&color=22c55e&style=flat" />
+<ul>
+<li>🔭 Working on <b>Business and Politics [Mobile Game]</b></li>
+<li>🌱 Learning <b>Ktor & Jetpack Compose</b></li>
+<li>🤝 Open to collaborations</li>
+<li>💬 Ask me about <b>Jetpack Compose</b></li>
+<li>📫 <b>kkucpr@gmail.com</b></li>
+</ul>
+
+</details>
+
+
+
+<p align="center">
+<picture>
+<source srcset="assets/sanji-dark.gif" media="(prefers-color-scheme: dark)">
+<img src="assets/sanji-light.gif" width="750" alt="Sanji Banner">
+</picture>
 </p>
 
-<hr>
-
-<h2>⚔️ Crew Connections</h2>
-
-<p>
-<a href="https://linkedin.com/in/umeshchandraprasadkamasan">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="42"/>
-</a>
-
-<a href="https://instagram.com/umesh__880">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="42"/>
-</a>
-
-
-</p>
-
-<hr>
-
-<h2>🏴‍☠️ Devil Fruits & Tools</h2>
+<details>
+<summary><h2>🔥 Devil Fruits & Tools</h2></summary>
 
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="45"/>
@@ -68,22 +65,37 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45"/>
 </p>
 
-<hr>
+</details>
+
+
+
+<details>
+<summary><h2>🏴‍☠️ Crew Connections</h2></summary>
+
+<p>
+<a href="https://linkedin.com/in/umeshchandraprasadkamasan">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="42"/>
+</a>
+<a href="https://instagram.com/umesh__880">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="42"/>
+</a>
+
+</p>
+
+</details>
 
 <h2>🌊 Grand Line Stats</h2>
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=umesh30072005&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=umesh30072005&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=umesh30072005&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=umesh30072005&layout=compact&theme=tokyonight"/>
 </p>
 
 <p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=umesh30072005&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=umesh30072005&theme=tokyonight"/>
 </p>
 
-<hr>
-
-<h3 align="center">🏴‍☠️ “I don’t want to conquer anything… I just want to build great things.”</h3>
+<h3 align="center">🏴‍☠️ “I don’t want to conquer GitHub… I just want to build great things.”</h3>
