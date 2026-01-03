@@ -87,9 +87,7 @@
 
 <h2>🌊 Grand Line Stats</h2>
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=umesh30072005&show_icons=true&theme=tokyonight"/>
-</p>
+
 
 <p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=umesh30072005&layout=compact&theme=tokyonight"/>
